@@ -21,12 +21,6 @@ The app allows users to **add their details (Name, Age, Email)** via a form and 
 <img width="1364" height="677" alt="image" src="https://github.com/user-attachments/assets/7e3334d1-8e3f-4bc1-85c9-59ccd22141f1" />
 
 
-
-
-### UI Preview
-![App Screenshot](./screenshot.png)  
-*(Example: Adding and displaying users)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -34,7 +28,3 @@ The app allows users to **add their details (Name, Age, Email)** via a form and 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
 - **Version Control:** Git & GitHub  
-
----
-
-## 📂 Project Structure
